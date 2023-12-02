@@ -1,6 +1,8 @@
 # UM Birthday Emails Integration
 Extension to Ultimate Member for Birthday emails plugin integration with UM.
 
+Current version will prepare the Birthday emails plugin with birthdays only from the UM Registration form.
+
 ## UM Settings
 None
 
