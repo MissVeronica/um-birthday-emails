@@ -6,6 +6,9 @@ Current version will prepare the Birthday emails plugin with birthdays only from
 ## UM Settings
 None
 
+## Birthday Emails plugin
+Reference: https://wordpress.org/plugins/birthday-emails/#description
+
 ## Installation
 1. Install by downloading the plugin ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
 2. Activate the Plugin: Ultimate Member - Birthday emails integration
