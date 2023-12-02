@@ -7,7 +7,8 @@ Current version will prepare the "Birthday Emails" plugin with birthdays only fr
 None
 
 ## Birthday Emails plugin
-Reference: https://wordpress.org/plugins/birthday-emails/#description
+1. Reference: https://wordpress.org/plugins/birthday-emails/
+2. Email Template Designer: https://wordpress.org/plugins/wp-html-mail/
 
 ## Installation
 1. Install by downloading the plugin ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
